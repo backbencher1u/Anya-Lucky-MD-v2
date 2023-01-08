@@ -65,8 +65,8 @@ tag10 = '𝘈𝘺𝘰𝘰 𝘈𝘯𝘺𝘢 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚'
 global.mess = {
     success: 'Work done 𝗗𝗮𝗿𝗹𝗶𝗻𝗴❤️',
     admin: "Baby!\nThis command is only for 𝗔𝗱𝗺𝗶𝗻𝘀...So i can't process your command babe. 😑",
-    botAdmin: 'First make me 𝗔𝗱𝗺𝗶𝗻!!! 😐',
-    owner: 'This command is only for my 𝗼𝘄𝗻𝗲𝗿..',
+    botAdmin: 'Pehle mujhe 𝗔𝗱𝗺𝗶𝗻 to banao yarr 😕...gadhe log',
+    owner: 'Ye feature sirf mere 𝗼𝘄𝗻𝗲𝗿 ke liye hai!! tune use kyu kiya',
     group: "Baka !!!!!\nYou can't use this command in a 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁 !😑",
     private: 'Such a baka !!\nThis command is only for 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀. 🥲',
     bot: "This Feature Is Only For 𝗕𝗼𝘁... and you're not a 𝗕𝗼𝘁.",
@@ -75,7 +75,7 @@ global.mess = {
     error: 'I got an 𝗲𝗿𝗿𝗼𝗿!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the 𝗼𝘄𝗻𝗲𝗿 😡, if you want to be 𝘂𝗻𝗯𝗮𝗻𝗻𝗲𝗱, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, Bc padhai likhai karo 𝗜𝗔𝗦 - 𝗬𝗔𝗦 bano lekin nhii tumhe to nudity dekhni hai 👏',
+    nsfw: 'Bc padhai likhai karo 𝗜𝗔𝗦 - 𝗬𝗔𝗦 bano lekin nhii tumhe to nudity dekhni hai 👏',
     banChat: 'The bot was banned 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗴𝗿𝗼𝘂𝗽!, please contact the owner to unban.'
 }
 
