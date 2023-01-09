@@ -8,7 +8,7 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
 global.botname = "Queen Anya" 
 global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
+global.botscript = 'https://github.com/lucky01u/Anya-Lucky-MD-v2' // Script link //
 global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ ву 𝐋𝐮𝐜𝐤𝐲" // sticker watermark packname //
 global.author = "Ⱡʉ₵₭ɏ" // sticker watermark author //
 actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
